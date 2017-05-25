@@ -32,7 +32,6 @@ Example:
 
 Generates and output file with the booking in chronological order requests are received, removing all bookings that fall outside business hours or that overlap with previous bookings. For the example above the output will be:
 
-
 2015-08-21
 09:00 11:00 EMP002
 2015-08-22
