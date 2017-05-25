@@ -37,3 +37,4 @@ Generates and output file with the booking in chronological order requests are r
 2015-08-22
 14:00 16:00 EMP003
 16:00 17:00 EMP004
+
