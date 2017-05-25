@@ -4,6 +4,8 @@ Organizes an appointment calendar from a set of booking requests
 use:
 python booking.py
 
+Required libraries: pandas, datetime, csv
+
 Details:
 this utility reads an input file named 'schedule_input.csv' with the following format:
 
